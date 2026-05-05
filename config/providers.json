@@ -1,0 +1,13 @@
+{
+  "active_providers": {
+    "llm": "ai_orchestrator",
+    "audio": "elevenlabs",
+    "image": "stability",
+    "video": "none"
+  },
+  "settings": {
+    "ai_orchestrator_url": "http://localhost:4000/api/orchestrate",
+    "image_resolution": "1024x1024",
+    "video_zoom_pan": true
+  }
+}
